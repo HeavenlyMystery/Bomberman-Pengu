@@ -1,2 +1,2 @@
-# Bomberman-Pengu
+# Welcome to Bomberman Pengu!
 Making the game.
