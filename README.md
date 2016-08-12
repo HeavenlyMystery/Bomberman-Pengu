@@ -1,2 +1,2 @@
 # Welcome to Bomberman Pengu!
-Making the game.
+Login or register if you don't have an account.
